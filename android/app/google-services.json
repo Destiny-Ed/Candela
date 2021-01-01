@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1049817419753",
+    "firebase_url": "https://xerver-53fce.firebaseio.com",
+    "project_id": "xerver-53fce",
+    "storage_bucket": "xerver-53fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049817419753:android:e1c40067c161ee76998578",
+        "android_client_info": {
+          "package_name": "com.candela.candela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xGTW8e2E31hEYzytObZidlzlSsvebhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049817419753:android:8fbf9bc876c8dea2998578",
+        "android_client_info": {
+          "package_name": "com.destinyed.mello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049817419753-cbm54jgf399lbb5dk2ne7vjv77cle93q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.destinyed.mello",
+            "certificate_hash": "553a6b9abea2486afa93d9a401f1d116f81ae1a9"
+          }
+        },
+        {
+          "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xGTW8e2E31hEYzytObZidlzlSsvebhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049817419753:android:fcfea4232403cdce998578",
+        "android_client_info": {
+          "package_name": "com.timiun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xGTW8e2E31hEYzytObZidlzlSsvebhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049817419753-p01qbiavho8o9594jco1s22oumdi8icl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
